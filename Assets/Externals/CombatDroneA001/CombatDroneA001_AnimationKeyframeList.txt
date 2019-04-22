@@ -1,0 +1,15 @@
+Drone Animations (Keyframes):
+
+0-60 = Idle01
+60-120 = Idle02
+120-240 = Look Right
+240-360 = Look Left
+360-480 = LookBackward
+480-540 = DualAttack
+540-600 = AttackRight
+600-660 = AttackLeft
+660-690 = HitFront
+690-720 = HitBack
+720-750 = HitRight
+750-780 = HitLeft
+780-840 = DeathAnimation01

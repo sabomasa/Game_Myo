@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 2b317631ff552e5469b6e5f946d888d9
+timeCreated: 1503083658
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_Left_Cannon01
+    100002: Arm_Left_JointA
+    100004: Arm_Left_JointB
+    100006: Arm_Left_Section01
+    100008: Arm_Left_Section02
+    100010: Arm_Right_Cannon01
+    100012: Arm_Right_JointA
+    100014: Arm_Right_JointB
+    100016: Arm_Right_Section01
+    100018: Arm_Right_Section02
+    100020: //RootNode
+    100022: CombatDroneModel
+    100024: DroneEye01
+    100026: DroneRootNode
+    100028: LowerArm_ForwardSpike
+    100030: LowerArm_JointA
+    100032: LowerWing_Left
+    100034: LowerWing_Left_JointA
+    100036: LowerWing_Right
+    100038: LowerWing_Right_JointA
+    100040: UpperWing_Left
+    100042: UpperWing_Left_JointA
+    100044: UpperWing_Right
+    100046: UpperWing_Right_JointA
+    400000: Arm_Left_Cannon01
+    400002: Arm_Left_JointA
+    400004: Arm_Left_JointB
+    400006: Arm_Left_Section01
+    400008: Arm_Left_Section02
+    400010: Arm_Right_Cannon01
+    400012: Arm_Right_JointA
+    400014: Arm_Right_JointB
+    400016: Arm_Right_Section01
+    400018: Arm_Right_Section02
+    400020: //RootNode
+    400022: CombatDroneModel
+    400024: DroneEye01
+    400026: DroneRootNode
+    400028: LowerArm_ForwardSpike
+    400030: LowerArm_JointA
+    400032: LowerWing_Left
+    400034: LowerWing_Left_JointA
+    400036: LowerWing_Right
+    400038: LowerWing_Right_JointA
+    400040: UpperWing_Left
+    400042: UpperWing_Left_JointA
+    400044: UpperWing_Right
+    400046: UpperWing_Right_JointA
+    2300000: Arm_Left_Cannon01
+    2300002: Arm_Left_JointA
+    2300004: Arm_Left_JointB
+    2300006: Arm_Left_Section01
+    2300008: Arm_Left_Section02
+    2300010: Arm_Right_Cannon01
+    2300012: Arm_Right_JointA
+    2300014: Arm_Right_JointB
+    2300016: Arm_Right_Section01
+    2300018: Arm_Right_Section02
+    2300020: CombatDroneModel
+    2300022: DroneEye01
+    2300024: DroneRootNode
+    2300026: LowerArm_ForwardSpike
+    2300028: LowerArm_JointA
+    2300030: LowerWing_Left
+    2300032: LowerWing_Left_JointA
+    2300034: LowerWing_Right
+    2300036: LowerWing_Right_JointA
+    2300038: UpperWing_Left
+    2300040: UpperWing_Left_JointA
+    2300042: UpperWing_Right
+    2300044: UpperWing_Right_JointA
+    3300000: Arm_Left_Cannon01
+    3300002: Arm_Left_JointA
+    3300004: Arm_Left_JointB
+    3300006: Arm_Left_Section01
+    3300008: Arm_Left_Section02
+    3300010: Arm_Right_Cannon01
+    3300012: Arm_Right_JointA
+    3300014: Arm_Right_JointB
+    3300016: Arm_Right_Section01
+    3300018: Arm_Right_Section02
+    3300020: CombatDroneModel
+    3300022: DroneEye01
+    3300024: DroneRootNode
+    3300026: LowerArm_ForwardSpike
+    3300028: LowerArm_JointA
+    3300030: LowerWing_Left
+    3300032: LowerWing_Left_JointA
+    3300034: LowerWing_Right
+    3300036: LowerWing_Right_JointA
+    3300038: UpperWing_Left
+    3300040: UpperWing_Left_JointA
+    3300042: UpperWing_Right
+    3300044: UpperWing_Right_JointA
+    4300000: DroneRootNode
+    4300002: CombatDroneModel
+    4300004: DroneEye01
+    4300006: UpperWing_Left_JointA
+    4300008: UpperWing_Left
+    4300010: LowerWing_Right_JointA
+    4300012: LowerWing_Right
+    4300014: LowerWing_Left_JointA
+    4300016: LowerWing_Left
+    4300018: UpperWing_Right_JointA
+    4300020: UpperWing_Right
+    4300022: Arm_Left_JointA
+    4300024: Arm_Left_Section01
+    4300026: Arm_Left_JointB
+    4300028: Arm_Left_Section02
+    4300030: Arm_Left_Cannon01
+    4300032: Arm_Right_JointA
+    4300034: Arm_Right_Section01
+    4300036: Arm_Right_JointB
+    4300038: Arm_Right_Section02
+    4300040: Arm_Right_Cannon01
+    4300042: LowerArm_JointA
+    4300044: LowerArm_ForwardSpike
+    7400000: Idle01
+    7400002: Idle02
+    7400004: LookRight
+    7400006: LookLeft
+    7400008: LookBackward
+    7400010: DualAttack
+    7400012: AttackRight
+    7400014: AttackLeft
+    7400016: HitFront
+    7400018: HitBack
+    7400020: HitRight
+    7400022: HitLeft
+    7400024: DeathAnimation
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneRootNode
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02/Arm_Left_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02/Arm_Right_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/DroneEye01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA/LowerArm_ForwardSpike
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA/LowerWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA/LowerWing_Right
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA/UpperWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA/UpperWing_Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle02
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneRootNode
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02/Arm_Left_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02/Arm_Right_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/DroneEye01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA/LowerArm_ForwardSpike
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA/LowerWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA/LowerWing_Right
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA/UpperWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA/UpperWing_Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LookRight
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneRootNode
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02/Arm_Left_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02/Arm_Right_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/DroneEye01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA/LowerArm_ForwardSpike
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA/LowerWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA/LowerWing_Right
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA/UpperWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA/UpperWing_Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LookLeft
+      takeName: Take 001
+      firstFrame: 240
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneRootNode
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02/Arm_Left_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02/Arm_Right_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/DroneEye01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA/LowerArm_ForwardSpike
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA/LowerWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA/LowerWing_Right
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA/UpperWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA/UpperWing_Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LookBackward
+      takeName: Take 001
+      firstFrame: 360
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneRootNode
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02/Arm_Left_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02/Arm_Right_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/DroneEye01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA/LowerArm_ForwardSpike
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA/LowerWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA/LowerWing_Right
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA/UpperWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA/UpperWing_Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DualAttack
+      takeName: Take 001
+      firstFrame: 480
+      lastFrame: 540
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneRootNode
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02/Arm_Left_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02/Arm_Right_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/DroneEye01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA/LowerArm_ForwardSpike
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA/LowerWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA/LowerWing_Right
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA/UpperWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA/UpperWing_Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackRight
+      takeName: Take 001
+      firstFrame: 540
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneRootNode
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02/Arm_Left_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02/Arm_Right_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/DroneEye01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA/LowerArm_ForwardSpike
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA/LowerWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA/LowerWing_Right
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA/UpperWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA/UpperWing_Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackLeft
+      takeName: Take 001
+      firstFrame: 600
+      lastFrame: 660
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneRootNode
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02/Arm_Left_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02/Arm_Right_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/DroneEye01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA/LowerArm_ForwardSpike
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA/LowerWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA/LowerWing_Right
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA/UpperWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA/UpperWing_Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HitFront
+      takeName: Take 001
+      firstFrame: 660
+      lastFrame: 690
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneRootNode
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02/Arm_Left_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02/Arm_Right_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/DroneEye01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA/LowerArm_ForwardSpike
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA/LowerWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA/LowerWing_Right
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA/UpperWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA/UpperWing_Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HitBack
+      takeName: Take 001
+      firstFrame: 690
+      lastFrame: 720
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneRootNode
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02/Arm_Left_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02/Arm_Right_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/DroneEye01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA/LowerArm_ForwardSpike
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA/LowerWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA/LowerWing_Right
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA/UpperWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA/UpperWing_Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HitRight
+      takeName: Take 001
+      firstFrame: 720
+      lastFrame: 750
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneRootNode
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02/Arm_Left_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02/Arm_Right_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/DroneEye01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA/LowerArm_ForwardSpike
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA/LowerWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA/LowerWing_Right
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA/UpperWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA/UpperWing_Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HitLeft
+      takeName: Take 001
+      firstFrame: 750
+      lastFrame: 780
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneRootNode
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02/Arm_Left_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02/Arm_Right_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/DroneEye01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA/LowerArm_ForwardSpike
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA/LowerWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA/LowerWing_Right
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA/UpperWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA/UpperWing_Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DeathAnimation
+      takeName: Take 001
+      firstFrame: 780
+      lastFrame: 840
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DroneRootNode
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Left_JointA/Arm_Left_Section01/Arm_Left_JointB/Arm_Left_Section02/Arm_Left_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/Arm_Right_JointA/Arm_Right_Section01/Arm_Right_JointB/Arm_Right_Section02/Arm_Right_Cannon01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/DroneEye01
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerArm_JointA/LowerArm_ForwardSpike
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Left_JointA/LowerWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/LowerWing_Right_JointA/LowerWing_Right
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Left_JointA/UpperWing_Left
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA
+        weight: 1
+      - path: DroneRootNode/CombatDroneModel/UpperWing_Right_JointA/UpperWing_Right
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: DroneRootNode
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

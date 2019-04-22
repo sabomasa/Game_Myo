@@ -1,0 +1,34 @@
+Combat Drone A001 - Unity Asset Package
+
+3D Model + Textures.
+
+To View the Demo Scene:
+
+1. Open the combatDroneViewerScene.unity scene located in the CombatDroneA001/DroneDemo/Scenes folder.
+2. Play the Demo Scene and Use these Orbit Camera Controls to View the 3D Model:
+> Zoom In - E Key
+> Zoom Out - Q Key
+> Rotate Left - A Key
+> Rotate Right - D Key
+> Rotate Up - W Key
+> Rotate Down - S Key
+
+2. To test animations:
+> Dual Attack - 1 Key
+> Attack Right - 2 Key
+> Attack Left - 3 Key
+> Drone Take Hit Front - I Key
+> Drone Take Hit Rear - K Key
+> Drone Take Hit Right - J Key
+> Drone Take Hit Left - L Key
+> Drone Take Damage - Backspace Key
+
+
+To use this 3D model in your project:
+
+1. Locate drone prefab in the CombatDroneA001/Prefabs folder.
+2. Drag into your prefered scene.
+
+
+Daniel Kole Productions
+www.danielkoleproductions.com
